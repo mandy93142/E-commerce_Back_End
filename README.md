@@ -12,24 +12,24 @@ The goal is to build the back end for an e-commerce site. You’ll take a workin
 
 The Express.js API with Sequelize and MySQL offers straightforward and effective database management. Here's a breakdown of its features:
 
--- **Easy Database Connection:** Simply by entering your database name, MySQL username, and password in an environment file, you can connect to your MySQL database using Sequelize.
+- **Easy Database Connection:** Simply by entering your database name, MySQL username, and password in an environment file, you can connect to your MySQL database using Sequelize.
 
--- **Database Setup and Seeding:** Running schema and seed commands creates a development database and fills it with test data, making it easy to get started.
+- **Database Setup and Seeding:** Running schema and seed commands creates a development database and fills it with test data, making it easy to get started.
 
--- **Starting the Server:** With just one command, the server starts, and Sequelize models are synced to the MySQL database, ensuring everything is up-to-date.
+- **Starting the Server:** With just one command, the server starts, and Sequelize models are synced to the MySQL database, ensuring everything is up-to-date.
 
--- **Testing GET Routes:** Using Insomnia Core, you can open API GET routes for categories, products, or tags. This shows you the data in a clear JSON format, making it easy to see and understand.
+- **Testing GET Routes:** Using Insomnia Core, you can open API GET routes for categories, products, or tags. This shows you the data in a clear JSON format, making it easy to see and understand.
 
--- **Testing POST, PUT, DELETE Routes:** Insomnia Core is also used for testing POST (create), PUT (update), and DELETE (remove) routes. This means you can easily modify data in your database.
+- **Testing POST, PUT, DELETE Routes:** Insomnia Core is also used for testing POST (create), PUT (update), and DELETE (remove) routes. This means you can easily modify data in your database.
 
 ## Technologies
--- **Sequlaize**
+- **Sequlaize**
 
--- **MySQL2** 
+- **MySQL2** 
 
--- **dotenv**
+- **dotenv**
 
--- **Insomnia Core**
+- **Insomnia Core**
 
 ## License
 
