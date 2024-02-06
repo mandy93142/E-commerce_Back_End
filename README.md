@@ -1,7 +1,7 @@
 # E-commerce_Back_End
 Object-Relational Mapping (ORM) Challenge: E-commerce Back End
 
-Link to the video: 
+Link to the video: https://drive.google.com/file/d/1PFlhuinRRxgx5cYZKMka4-Yx-H1S-5dL/view
 
 ## Overview
 
