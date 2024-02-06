@@ -23,7 +23,7 @@ The Express.js API with Sequelize and MySQL offers straightforward and effective
 - **Testing POST, PUT, DELETE Routes:** Insomnia Core is also used for testing POST (create), PUT (update), and DELETE (remove) routes. This means you can easily modify data in your database.
 
 ## Technologies
-- **Sequlaize**
+- **Sequalize**
 
 - **MySQL2** 
 
